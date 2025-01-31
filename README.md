@@ -16,7 +16,7 @@ Note that the above examples do have ghosting. I'm fairly sure you can avoid tha
 
 # Using it
 
-Before using this you have to download and build [libhdr](https://github.com/google/libultrahdr/). Then note down the path to the `ultrahdr_app` binary.
+Before using this you have to download and build [libultrahdr](https://github.com/google/libultrahdr/). Then note down the path to the `ultrahdr_app` binary. Then clone this repo.
 
 The easiest way to run it yourself is to do:
 
