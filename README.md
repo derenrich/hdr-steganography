@@ -6,8 +6,6 @@ Two images of the same size can be merged into one file. Users with SDR will onl
 
 # Examples
 
-![elon musk saluting](elon_hdr.jpg)
-
 ![this is a pipe](pipe_hdr.jpg)
 
 Note: you need to be on a display with HDR and using software that supports HDR. I'm using Chrome on a modern MBP.
