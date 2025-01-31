@@ -12,7 +12,7 @@ If you are on an unsupported system or using an SDR display you will see the cla
 
 ![this is a pipe](this%20is%20a%20pipe.jpg)
 
-Note: you need to be on a display with HDR and using software that supports HDR. I'm using Chrome on a modern MBP. It also works in Chrome on my phone.
+You need to be on a display with HDR and using software that supports HDR. I'm using Chrome on a modern MBP. It also works in Chrome on my phone.
 
 Note that the above example does have ghosting. I'm fairly sure you can avoid that if you are more clever.
 
