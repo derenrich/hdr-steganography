@@ -8,9 +8,13 @@ Two images of the same size can be merged into one file. Users with SDR will onl
 
 ![this is a pipe](pipe_hdr.jpg)
 
-Note: you need to be on a display with HDR and using software that supports HDR. I'm using Chrome on a modern MBP.
+If you are on an unsupported system or using an SDR display you will see the classic [The_Treachery_of_Images](https://en.wikipedia.org/wiki/The_Treachery_of_Images) painting. If your system support HDR then you will see something like the below:
 
-Note that the above examples do have ghosting. I'm fairly sure you can avoid that if you are more clever.
+![this is a pipe](this is a pipe.jpg)
+
+Note: you need to be on a display with HDR and using software that supports HDR. I'm using Chrome on a modern MBP. It also works in Chrome on my phone.
+
+Note that the above example does have ghosting. I'm fairly sure you can avoid that if you are more clever.
 
 # Using it
 
@@ -32,7 +36,9 @@ In [1]: %run merge.py input1.jpeg input2.jpeg output.jpeg
 
 # Security implications
 
-Users could unknowingly share images that contain content that they don't approve of or agree with. As best I can tell only Instagram and Threads support HDR and I do not know if they re-encode in a way that defeats this.
+Users could unknowingly share images that contain content that they don't approve of or agree with. As best I can tell only Instagram and Threads support HDR and I do not know if they re-encode in a way that defeats this. For example, you could imagine someone sharing this below image and only some subset of the population would see the "hidden" message.
+
+![elon](elon_hdr.jpg)
 
 I'm fairly confident no common AI is HDR-aware so you could use this to show humans one piece of content and AIs another. Potentially couuld be used by phishers to defeat anti-phishing scanners. Poisoning of AI image generation datasets is also possible?
 
