@@ -10,7 +10,7 @@ Two images of the same size can be merged into one file. Users with SDR will onl
 
 If you are on an unsupported system or using an SDR display you will see the classic [The_Treachery_of_Images](https://en.wikipedia.org/wiki/The_Treachery_of_Images) painting. If your system support HDR then you will see something like the below:
 
-![this is a pipe](this is a pipe.jpg)
+![this is a pipe](this%20is%20a%20pipe.jpg)
 
 Note: you need to be on a display with HDR and using software that supports HDR. I'm using Chrome on a modern MBP. It also works in Chrome on my phone.
 
