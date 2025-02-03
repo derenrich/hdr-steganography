@@ -24,7 +24,7 @@ The easiest way to run it yourself is to do:
 
 ```
 $ export ULTRAHDR_BIN=...
-$ uvx --with pillow --with numpy ipython
+$ uvx --with pillow --with numpy  --with OpenExr --with openexr ipython
 (3.12.3) projects/hdr-steganography  > uvx --with pillow --with numpy ipython
 Python 3.12.3 (main, Apr 14 2024, 23:08:16) [Clang 15.0.0 (clang-1500.3.9.4)]
 Type 'copyright', 'credits' or 'license' for more information
